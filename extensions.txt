@@ -1,0 +1,10 @@
+https://github.com/Bing-su/adetailer.git 
+https://github.com/Vetchems/sd-civitai-browser.git 
+https://github.com/adieyal/sd-dynamic-prompts.git 
+https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git tag-autocomplete
+https://github.com/Coyote-A/ultimate-upscale-for-automatic1111.git ultimateSDupscale
+https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git aspect-ratio-helper
+https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git images-browser
+https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git civitai-Helper
+https://github.com/Uminosachi/sd-webui-inpaint-anything.git inpaint-anything
+https://github.com/0Tick/a1111-mini-paint.git mini-paint

@@ -7,6 +7,3 @@ https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git aspect-ratio-help
 https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git images-browser
 https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git civitai-Helper
 https://github.com/Uminosachi/sd-webui-inpaint-anything.git inpaint-anything
-https://github.com/0Tick/a1111-mini-paint.git mini-paint
-https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris.git
-https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git

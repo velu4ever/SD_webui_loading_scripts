@@ -3,7 +3,20 @@ https://civitai.com/models/93529/thisisreal
 https://civitai.com/models/4201?modelVersionId=130090
 https://civitai.com/models/4384?modelVersionId=131004
 https://civitai.com/models/58390/detail-tweaker-lora-lora
+https://civitai.com/models/16014/anime-lineart-manga-like-style
+https://civitai.com/models/108464/clay-render-style
+https://civitai.com/models/42214/onoff-lora
+https://civitai.com/models/78605/ink-scenery-or
+https://civitai.com/models/92173/mybreasthelper
+https://civitai.com/models/103178/sdvn5-3dcutewave
+https://civitai.com/models/78283/elixir-enhancer-lora
 https://civitai.com/models/48139/lowra
+https://civitai.com/models/17824/sun-and-shadow
+https://civitai.com/models/28742/light-and-silhouette
+https://civitai.com/models/75164/atmosphere
+https://civitai.com/models/76152/broken-glass
+https://civitai.com/models/64471/real-mechanical-parts
+https://civitai.com/models/34862/breast-squeeze-elbow-squeeze-variation-lora
 https://civitai.com/models/88132/leosams-clothing-adjuster-lora
 https://civitai.com/models/94087/anxiang-or
 https://civitai.com/models/73756/3d-rendering-style
@@ -20,6 +33,16 @@ https://civitai.com/models/6693/shirtlift-a-lora-for-flashing-tits
 https://civitai.com/models/9950/realistic-vaginas-god-pussy-1
 https://civitai.com/models/112465/crop-shirt-underboob-animerealistic-or-goofy-ai
 https://civitai.com/models/115324/cropped-hoodie-underboob-anime-realistic-or-goofy-ai
+https://civitai.com/models/30151/ironcatlora-2-dragons
+https://civitai.com/models/8730/hipoly-3d-model-lora
+https://civitai.com/models/60724/kids-illustration
+https://civitai.com/models/13068/russian-doll-likeness
+https://civitai.com/models/28811/japanesedolllikeness-v15
+https://civitai.com/models/26124/koreandolllikeness-v20
+https://civitai.com/models/17455/shiny-oiled-skin-20-lycorislora
+https://civitai.com/models/28531/miniature-world-style
+https://civitai.com/models/76693/mecha,all
+https://civitai.com/models/59180/girl-and-sundries
 https://civitai.com/models/7808/easynegative
 https://civitai.com/models/56519/negativehand-negative-embedding
 https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings
@@ -32,6 +55,15 @@ https://civitai.com/models/100191/ti-easynegativev2-textual-inversion-embedding
 https://civitai.com/models/77976
 https://civitai.com/models/116230/Bad-Hands-5
 https://civitai.com/models/16993/badhandv4
+https://civitai.com/models/45484/jess-bush
+https://civitai.com/models/6841/adventure-diffusion
+https://civitai.com/models/4157/hamunaptra-style
+https://civitai.com/models/2032/empire-style
+https://civitai.com/models/7523/style-sylva-magic
+https://civitai.com/models/7228/final-fantasy-vii-remake-style-unreal-engine-4-lora
+https://civitai.com/models/58102/industrial-machines
+https://civitai.com/models/99875/nijiarmor-lora-suits-armors-mechas
+https://civitai.com/models/18052/style-paint-magic
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth controlnet_model
@@ -56,5 +88,4 @@ https://civitai.com/models/111749/25-pose-collection
 https://civitai.com/models/51365/on-all-fours-poses
 https://civitai.com/models/123134/depth-nsfw-anime-poses-prompt-examplessettings
 https://civitai.com/models/56359/open-legs-poses-pack
-https://civitai.com/models/17908/bj-pose
 https://civitai.com/models/13390/fashion-poses-three-quarter-length

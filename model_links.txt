@@ -64,7 +64,6 @@ https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth controlnet_model
-https://huggingface.co/henryruhs/roop/resolve/main/inswapper_128.onnx roop
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth ESRGAN
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth ESRGAN
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_foolhardy_Remacri.pth ESRGAN

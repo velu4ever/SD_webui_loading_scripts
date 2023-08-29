@@ -259,12 +259,12 @@ options_templates.update(options_section(('saving-images', "Saving images/grids"
     "save_images_before_color_correction": OptionInfo(False, "Save a copy of image before applying color correction to img2img results"),
     "save_mask": OptionInfo(False, "For inpainting, save a copy of the greyscale mask"),
     "save_mask_composite": OptionInfo(False, "For inpainting, save a masked composite"),
-    "jpeg_quality": OptionInfo(80, "Quality for saved jpeg images", gr.Slider, {"minimum": 1, "maximum": 100, "step": 1}),
+    "jpeg_quality": OptionInfo(100, "Quality for saved jpeg images", gr.Slider, {"minimum": 1, "maximum": 100, "step": 1}),
     "webp_lossless": OptionInfo(False, "Use lossless compression for webp images"),
     "export_for_4chan": OptionInfo(True, "If the saved image file size is above the limit, or its either width or height are above the limit, save a downscaled copy as JPG"),
     "img_downscale_threshold": OptionInfo(4.0, "File size limit for the above option, MB", gr.Number),
     "target_side_length": OptionInfo(4000, "Width/height limit for the above option, in pixels", gr.Number),
-    "img_max_size_mp": OptionInfo(200, "Maximum image size, in megapixels", gr.Number),
+    "img_max_size_mp": OptionInfo(20, "Maximum image size, in megapixels", gr.Number),
 
     "use_original_name_batch": OptionInfo(True, "Use original name for output filename during batch process in extras tab"),
     "use_upscaler_name_as_suffix": OptionInfo(False, "Use upscaler name as filename suffix in the extras tab"),
@@ -275,6 +275,7 @@ options_templates.update(options_section(('saving-images', "Saving images/grids"
     "clean_temp_dir_at_start": OptionInfo(False, "Cleanup non-default temporary directory when starting startfk"),
 
 }))
+
 outputs_path = "outputs/"
 try:
     drive_path = "/content/drive"
@@ -353,7 +354,7 @@ options_templates.update(options_section(('sd', "Stable Diffusion"), {
     "sd_vae": OptionInfo("Automatic", "SD VAE", gr.Dropdown, lambda: {"choices": shared_items.sd_vae_items()}, refresh=shared_items.refresh_vae_list),
     "sd_vae_as_default": OptionInfo(True, "Ignore selected VAE for stable diffusion checkpoints that have their own .vae.pt next to them"),
     "inpainting_mask_weight": OptionInfo(1.0, "Inpainting conditioning mask strength", gr.Slider, {"minimum": 0.0, "maximum": 1.0, "step": 0.01}),
-    "initial_noise_multiplier": OptionInfo(1.0, "Noise multiplier for img2img", gr.Slider, {"minimum": 0.5, "maximum": 1.5, "step": 0.01}),
+    "initial_noise_multiplier": OptionInfo(1.0, "Noise multiplier for img2img", gr.Slider, {"minimum": 0.0, "maximum": 1.5, "step": 0.01}),
     "img2img_color_correction": OptionInfo(False, "Apply color correction to img2img results to match original colors."),
     "img2img_fix_steps": OptionInfo(False, "With img2img, do exactly the amount of steps the slider specifies (normally you'd do less with less denoising)."),
     "img2img_background_color": OptionInfo("#ffffff", "With img2img, fill image's transparent parts with this color.", ui_components.FormColorPicker, {}),
@@ -429,7 +430,7 @@ options_templates.update(options_section(('ui', "Live previews"), {
     "show_progressbar": OptionInfo(True, "Show progressbar"),
     "live_previews_enable": OptionInfo(True, "Show live previews of the created image"),
     "show_progress_grid": OptionInfo(True, "Show previews of all images generated in a batch as a grid"),
-    "show_progress_every_n_steps": OptionInfo(10, "Show new live preview image every N sampling steps. Set to -1 to show after completion of batch.", gr.Slider, {"minimum": -1, "maximum": 32, "step": 1}),
+    "show_progress_every_n_steps": OptionInfo(1, "Show new live preview image every N sampling steps. Set to -1 to show after completion of batch.", gr.Slider, {"minimum": -1, "maximum": 32, "step": 1}),
     "show_progress_type": OptionInfo("Approx NN", "Image creation progress preview mode", gr.Radio, {"choices": ["Full", "Approx NN", "Approx cheap"]}),
     "live_preview_content": OptionInfo("Prompt", "Live preview subject", gr.Radio, {"choices": ["Combined", "Prompt", "Negative prompt"]}),
     "live_preview_refresh_period": OptionInfo(1000, "Progressbar/preview update period, in milliseconds")

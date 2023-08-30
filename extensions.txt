@@ -7,4 +7,4 @@ https://github.com/thomasasfk/sd-webui-aspect-ratio-helper.git aspect-ratio-help
 https://github.com/AlUlkesh/stable-diffusion-webui-images-browser.git images-browser
 https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git civitai-Helper
 https://github.com/Uminosachi/sd-webui-inpaint-anything.git inpaint-anything
-https://github.com/s0md3v/sd-webui-roop.git
+https://github.com/s0md3v/sd-webui-roop.git roop-sd-ext

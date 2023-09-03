@@ -277,18 +277,18 @@ options_templates.update(options_section(('saving-images', "Saving images/grids"
 }))
 
 outputs_path = "outputs/"
-if not encryption:
-    try:
-        drive_path = "/content/drive"
-        if os.path.exists(drive_path):
-          models_path_gdrive = "/content/drive/MyDrive/AI/models/"
-          output_path_gdrive = "/content/drive/MyDrive/AI/StableDiffusion/"
-          os.makedirs(models_path_gdrive, exist_ok=True)
-          os.makedirs(output_path_gdrive, exist_ok=True)
-          outputs_path = output_path_gdrive
-    except:
-        print("...error mounting drive or with drive path variables")
-        print("...reverting to default path variables")
+# if not encryption:
+    # try:
+        # drive_path = "/content/drive"
+        # if os.path.exists(drive_path):
+          # models_path_gdrive = "/content/drive/MyDrive/AI/models/"
+          # output_path_gdrive = "/content/drive/MyDrive/AI/StableDiffusion/"
+          # os.makedirs(models_path_gdrive, exist_ok=True)
+          # os.makedirs(output_path_gdrive, exist_ok=True)
+          # outputs_path = output_path_gdrive
+    # except:
+        # print("...error mounting drive or with drive path variables")
+        # print("...reverting to default path variables")
     
 options_templates.update(options_section(('saving-paths', "Paths for saving"), {
     "outdir_samples": OptionInfo("", "Output directory for images; if empty, defaults to three directories below", component_args=hide_dirs),

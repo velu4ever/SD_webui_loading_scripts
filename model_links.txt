@@ -74,14 +74,8 @@ https://civitai.com/models/70264/advanced-wildcards-post-apocalyptic-kit-or-or
 https://civitai.com/models/21203/female-portraits-and-compositions-autoprompt-awesome-prompt-lists
 https://civitai.com/models/63598/ccs-wildcards
 https://civitai.com/models/115347/the-prompt-builder
-https://civitai.com/models/14368/zpose-playful-poses-pose-helper
-https://civitai.com/models/17012/character-turnaround-openpose
-https://civitai.com/models/76882/poses-packs-collection,all
-https://civitai.com/models/13071/zpose-catwalk-styles-1-pose-helper
-https://civitai.com/models/11573/zpose-fighting-styles-1-pose-helper
-https://civitai.com/models/12319/zpose-heroic-styles-1-pose-helper
-https://civitai.com/models/111749/25-pose-collection
-https://civitai.com/models/51365/on-all-fours-poses
-https://civitai.com/models/123134/depth-nsfw-anime-poses-prompt-examplessettings
+https://civitai.com/models/45448/full-feature-character-prompts-fantasy
+https://civitai.com/models/78026/muggle-wildcardsextremely-beautiful-clothesdifferent-stlyes-muggle
+https://civitai.com/models/21143/female-scifi-autoprompt-awesome-prompt-lists
 https://civitai.com/models/56359/open-legs-poses-pack
 https://civitai.com/models/13390/fashion-poses-three-quarter-length

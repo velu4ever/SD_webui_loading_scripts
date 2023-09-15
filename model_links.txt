@@ -63,19 +63,7 @@ https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth controlnet_model
 https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth controlnet_model
-https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth controlnet_model
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x-UltraSharp.pth ESRGAN
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/8x_NMKD-Superscale_150000_G.pth ESRGAN
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_foolhardy_Remacri.pth ESRGAN
 https://huggingface.co/uwg/upscaler/resolve/main/ESRGAN/4x_Valar_v1.pth ESRGAN
-https://civitai.com/models/22145/rpg-female-edition-autoprompt-awesome-prompt-lists
-https://civitai.com/models/21143/female-scifi-autoprompt-awesome-prompt-lists
-https://civitai.com/models/70264/advanced-wildcards-post-apocalyptic-kit-or-or
-https://civitai.com/models/21203/female-portraits-and-compositions-autoprompt-awesome-prompt-lists
-https://civitai.com/models/63598/ccs-wildcards
-https://civitai.com/models/115347/the-prompt-builder
-https://civitai.com/models/45448/full-feature-character-prompts-fantasy
-https://civitai.com/models/78026/muggle-wildcardsextremely-beautiful-clothesdifferent-stlyes-muggle
-https://civitai.com/models/21143/female-scifi-autoprompt-awesome-prompt-lists
-https://civitai.com/models/56359/open-legs-poses-pack
-https://civitai.com/models/13390/fashion-poses-three-quarter-length

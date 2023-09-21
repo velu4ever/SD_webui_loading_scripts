@@ -1,7 +1,6 @@
 https://civitai.com/models/4201?modelVersionId=130090
 https://civitai.com/models/132632/epicphotogasm
 https://civitai.com/models/8392?modelVersionId=75169
-https://civitai.com/models/80460/asian-beauty-collection,all
 https://civitai.com/models/58390/detail-tweaker-lora-lora
 https://civitai.com/models/16014/anime-lineart-manga-like-style
 https://civitai.com/models/108464/clay-render-style
@@ -11,8 +10,6 @@ https://civitai.com/models/92173/mybreasthelper
 https://civitai.com/models/78283/elixir-enhancer-lora
 https://civitai.com/models/48139/lowra
 https://civitai.com/models/123213/all-in-one-less3-skin-hands-eyes-by-polyhedron
-https://civitai.com/models/76152/broken-glass
-https://civitai.com/models/64471/real-mechanical-parts
 https://civitai.com/models/34862/breast-squeeze-elbow-squeeze-variation-lora
 https://civitai.com/models/88132/leosams-clothing-adjuster-lora
 https://civitai.com/models/94087/anxiang-or
@@ -27,15 +24,12 @@ https://civitai.com/models/6693/shirtlift-a-lora-for-flashing-tits
 https://civitai.com/models/9950/realistic-vaginas-god-pussy-1
 https://civitai.com/models/112465/crop-shirt-underboob-animerealistic-or-goofy-ai
 https://civitai.com/models/115324/cropped-hoodie-underboob-anime-realistic-or-goofy-ai
-https://civitai.com/models/30151/ironcatlora-2-dragons
 https://civitai.com/models/8730/hipoly-3d-model-lora
-https://civitai.com/models/60724/kids-illustration
 https://civitai.com/models/13068/russian-doll-likeness
 https://civitai.com/models/28811/japanesedolllikeness-v15
 https://civitai.com/models/26124/koreandolllikeness-v20
 https://civitai.com/models/17455/shiny-oiled-skin-20-lycorislora
 https://civitai.com/models/28531/miniature-world-style
-https://civitai.com/models/76693/mecha
 https://civitai.com/models/59180/girl-and-sundries
 https://civitai.com/models/7808/easynegative
 https://civitai.com/models/56519/negativehand-negative-embedding

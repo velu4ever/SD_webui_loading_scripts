@@ -1,6 +1,8 @@
-https://civitai.com/models/4201?modelVersionId=130090
-https://civitai.com/models/97744/realcartoon-realistic
-https://civitai.com/models/8392?modelVersionId=75169
+https://civitai.com/models/43331?modelVersionId=126470
+https://civitai.com/models/47274?modelVersionId=102222
+https://civitai.com/models/19831/degenerate
+https://civitai.com/models/59525?modelVersionId=63980
+https://civitai.com/models/114953/
 https://civitai.com/models/58390/detail-tweaker-lora-lora
 https://civitai.com/models/16014/anime-lineart-manga-like-style
 https://civitai.com/models/108464/clay-render-style
